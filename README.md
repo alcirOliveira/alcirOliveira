@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Alcir
-- 👀 I’m interested in everything related to technologies.
+- 👀 I'm interested in technology related topics.
 - 🌱 I’m currently learning cloud computing (Azure and AWS)
 - 📫 How to reach me? alcir.a.oliveira@gmail.com
